@@ -2,7 +2,7 @@
 This is a Next.js application where I built both the front end and API using MongoDB. The project also includes Mailtrap with Nodemailer for sending tokens on emails, providing a robust authentication system.
 
 - NextJs-Auth-Project: 
- https://next-js-auth-project-git-main-madhav-patel-s-projects.vercel.app/login
+ https://next-js-auth-project-git-main-madhav-patel-s-projects.vercel.app
 
 ## Reference
 To learn more about Next.js, take a look at the following resources:
